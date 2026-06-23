@@ -10,7 +10,7 @@ A Python-based secure notes manager that stores notes using AES encryption and p
 * View Notes
 * Delete Notes
 * Secure Storage
-
+ 
 ## Installation
 
 pip install cryptography
